@@ -9,7 +9,10 @@
   "author": "Myles Borins <myles.borins@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "end-of-stream": "^1.1.0",
     "picture-tube": "0.0.4",
+    "raf": "^3.0.0",
+    "through2": "^2.0.0",
     "webcam-capture": "^0.1.1"
   }
 }
