@@ -1,0 +1,11 @@
+{
+  "name": "pinhole",
+  "version": "1.0.0",
+  "description": "There is a tiny pinhole in your laptop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myles Borins <myles.borins@gmail.com>",
+  "license": "MIT"
+}
