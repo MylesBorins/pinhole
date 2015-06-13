@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Myles Borins <myles.borins@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "picture-tube": "0.0.4",
+    "webcam-capture": "^0.1.1"
+  }
 }
