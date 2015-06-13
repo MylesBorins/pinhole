@@ -13,6 +13,6 @@
     "picture-tube": "0.0.4",
     "raf": "^3.0.0",
     "through2": "^2.0.0",
-    "webcam-capture": "^0.1.1"
+    "webcam-capture": "thealphanerd/node-webcam-capture#png"
   }
 }
